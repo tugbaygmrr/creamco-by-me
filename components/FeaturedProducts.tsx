@@ -30,8 +30,8 @@ const products: Product[] = [
     bottle: "from-cream-300 to-cream-500",
     accent: "text-cream-700",
     tag: "Çok Satan",
-    image: "/images/moisturizer.png",
-    hoverImage: "/images/moisturizer-hover.png",
+    image: "/images/moisturizer.webp",
+    hoverImage: "/images/moisturizer-hover.webp",
   },
   {
     name: "Peptide Glow Face Mist",
@@ -41,8 +41,8 @@ const products: Product[] = [
     bottle: "from-cream-200 to-cream-400",
     accent: "text-cream-600",
     tag: "Günlük",
-    image: "/images/facemist.png",
-    hoverImage: "/images/facemist-hover.png",
+    image: "/images/facemist.webp",
+    hoverImage: "/images/facemist-hover.webp",
   },
   {
     name: "Everyday Pink SPF",
@@ -52,8 +52,8 @@ const products: Product[] = [
     bottle: "from-white to-cream-300",
     accent: "text-cream-600",
     tag: "Yeni",
-    image: "/images/spf.png",
-    hoverImage: "/images/spf-hover.png",
+    image: "/images/spf.webp",
+    hoverImage: "/images/spf-hover.webp",
   },
   {
     name: "Glow Tint - Bold Burgundy",
@@ -63,8 +63,8 @@ const products: Product[] = [
     bottle: "from-cream-500 to-cream-800",
     accent: "text-cream-800",
     tag: "Favori",
-    image: "/images/liptint.png",
-    hoverImage: "/images/liptint-hover.png",
+    image: "/images/liptint.webp",
+    hoverImage: "/images/liptint-hover.webp",
   },
 ];
 

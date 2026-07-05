@@ -5,22 +5,22 @@ import Reveal from "./Reveal";
 
 // Posts pulled from @creamco (creamco.com.tr Instafeed), images self-hosted in /public/images/instagram
 const posts = [
-  { img: "/images/instagram/ig-01.jpg", href: "https://www.instagram.com/p/DaLRdaTCCc3", reel: false },
-  { img: "/images/instagram/ig-02.jpg", href: "https://www.instagram.com/p/DaDX0qfCIXx", reel: false },
-  { img: "/images/instagram/ig-03.jpg", href: "https://www.instagram.com/p/DZ9pq9ViNxb", reel: false },
-  { img: "/images/instagram/ig-04.jpg", href: "https://www.instagram.com/p/DZ5DN02CE5M", reel: false },
-  { img: "/images/instagram/ig-05.jpg", href: "https://www.instagram.com/p/DZ2WUT2CN4w", reel: false },
-  { img: "/images/instagram/ig-06.jpg", href: "https://www.instagram.com/p/DZzoGPPCDEw", reel: false },
-  { img: "/images/instagram/ig-07.jpg", href: "https://www.instagram.com/p/DZxH4wLiLfU", reel: false },
-  { img: "/images/instagram/ig-08.jpg", href: "https://www.instagram.com/p/DZulNqaCBtI", reel: false },
-  { img: "/images/instagram/ig-09.jpg", href: "https://www.instagram.com/p/DZpWW6jiA2o", reel: false },
-  { img: "/images/instagram/ig-10.jpg", href: "https://www.instagram.com/p/DZhaZouiMwv", reel: false },
-  { img: "/images/instagram/ig-11.jpg", href: "https://www.instagram.com/p/DZcyp9SiCiW", reel: false },
-  { img: "/images/instagram/ig-12.jpg", href: "https://www.instagram.com/reel/DZKg4Yeone5", reel: true },
-  { img: "/images/instagram/ig-13.jpg", href: "https://www.instagram.com/p/DZFSrAziHI2", reel: false },
-  { img: "/images/instagram/ig-14.jpg", href: "https://www.instagram.com/p/DY981G6iA65", reel: false },
-  { img: "/images/instagram/ig-15.jpg", href: "https://www.instagram.com/reel/DY66xE2oGhy", reel: true },
-  { img: "/images/instagram/ig-16.jpg", href: "https://www.instagram.com/reel/DY4O_QkoRCG", reel: true },
+  { img: "/images/instagram/ig-01.webp", href: "https://www.instagram.com/p/DaLRdaTCCc3", reel: false },
+  { img: "/images/instagram/ig-02.webp", href: "https://www.instagram.com/p/DaDX0qfCIXx", reel: false },
+  { img: "/images/instagram/ig-03.webp", href: "https://www.instagram.com/p/DZ9pq9ViNxb", reel: false },
+  { img: "/images/instagram/ig-04.webp", href: "https://www.instagram.com/p/DZ5DN02CE5M", reel: false },
+  { img: "/images/instagram/ig-05.webp", href: "https://www.instagram.com/p/DZ2WUT2CN4w", reel: false },
+  { img: "/images/instagram/ig-06.webp", href: "https://www.instagram.com/p/DZzoGPPCDEw", reel: false },
+  { img: "/images/instagram/ig-07.webp", href: "https://www.instagram.com/p/DZxH4wLiLfU", reel: false },
+  { img: "/images/instagram/ig-08.webp", href: "https://www.instagram.com/p/DZulNqaCBtI", reel: false },
+  { img: "/images/instagram/ig-09.webp", href: "https://www.instagram.com/p/DZpWW6jiA2o", reel: false },
+  { img: "/images/instagram/ig-10.webp", href: "https://www.instagram.com/p/DZhaZouiMwv", reel: false },
+  { img: "/images/instagram/ig-11.webp", href: "https://www.instagram.com/p/DZcyp9SiCiW", reel: false },
+  { img: "/images/instagram/ig-12.webp", href: "https://www.instagram.com/reel/DZKg4Yeone5", reel: true },
+  { img: "/images/instagram/ig-13.webp", href: "https://www.instagram.com/p/DZFSrAziHI2", reel: false },
+  { img: "/images/instagram/ig-14.webp", href: "https://www.instagram.com/p/DY981G6iA65", reel: false },
+  { img: "/images/instagram/ig-15.webp", href: "https://www.instagram.com/reel/DY66xE2oGhy", reel: true },
+  { img: "/images/instagram/ig-16.webp", href: "https://www.instagram.com/reel/DY4O_QkoRCG", reel: true },
 ];
 
 const INSTA_URL = "https://www.instagram.com/creamco/";
